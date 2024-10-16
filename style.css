@@ -1,0 +1,12 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title_def{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 10em;
+    border-bottom: 10px;
+    border-color: black;
+}
